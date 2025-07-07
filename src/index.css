@@ -1,7 +1,8 @@
 *{
     margin: 0;
+    padding: 0;
 }
 body{
     height: 100vh;
-    background-image: linear-gradient(rgb(255, 255, 255),rgb(168, 156, 235));
+    background-image: linear-gradient(rgb(255, 255, 255),rgb(153, 136, 248));
 }

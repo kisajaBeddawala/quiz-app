@@ -1,5 +1,51 @@
 .container{
     width: 640px;
     margin:auto;
-    
+    margin-top: 160px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    background-color: white;
+    color: rgb(71, 67, 67);
+    padding: 40px 50px;
+    border-radius: 10px;
+}
+.container h1{
+    text-align: center;
+    font-size: 35px;
+}
+.container hr{
+    height: 2px;
+    border: none;
+    background-color: rgba(0, 0, 0, 0.722);
+}
+.container h2{
+    font-size: 25px;
+    text-align: start;
+    font-weight: 500;
+}
+.container ul li{
+    font-size: 18px;
+    list-style-type: none;
+    text-align: start;
+    padding: 10px;
+    border: 1px rgb(0, 0, 0) solid;
+    border-radius: 5px;
+    margin-bottom: 8px;
+    cursor: pointer;
+}
+.container button{
+    width: 150px;
+    font-size: 18px;
+    margin: auto;
+    border: none;
+    border-radius: 5px;
+    padding: 6px 0;
+    color: white;
+    background-color: blue;
+    cursor: pointer;
+}
+.container .index{
+    font-size: 18px;
+    color: rgb(0, 0, 0);;
 }
