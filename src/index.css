@@ -4,5 +4,5 @@
 }
 body{
     height: 100vh;
-    background-image: linear-gradient(rgb(255, 255, 255),rgb(153, 136, 248));
+    background-image: linear-gradient(rgba(232, 232, 232, 0.711),rgb(132, 114, 250),rgb(110, 88, 234));
 }

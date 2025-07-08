@@ -1,4 +1,4 @@
-export const daata = [
+export const data = [
     {
         question: "What is the capital of France?",
         Option1: "Berlin",
